@@ -1,0 +1,5 @@
+{
+  "name": "Cutting Tool Inspector AI",
+  "description": "AI-powered automated visual inspection for single-point cutting tools. Analyze geometry, verify ASME compliance, and generate reports.",
+  "requestFramePermissions": []
+}
